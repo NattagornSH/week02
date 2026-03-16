@@ -1,1 +1,1 @@
-SELECT * FROM Suppliers
+SELECT * FROM OrderItems;
